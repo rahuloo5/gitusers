@@ -1,0 +1,25 @@
+.infodatacontainer{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5;
+   
+
+    
+
+}
+.infoicon{
+    height: 26;
+    width:26;
+    border-radius: 13;
+    flex-direction: row;
+
+}
+.infodetails{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5;
+   
+}
